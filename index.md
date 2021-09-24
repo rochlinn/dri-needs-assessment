@@ -55,8 +55,5 @@ Based on these findings, recommendations are:
 3. **Coordinate and develop a unified portal** as a centralized entry point to DRI services.
 
 
-## Reports
-
-The 25 areas of DRI queried have been split into 4 individual reports, detailing if supports and training were needed and where they were sought. Each report is catered to a specific unit and represents core areas of service delivery within each of those units. 
 
 
