@@ -18,7 +18,7 @@ title: Digital Research Infrastructure Report
   <a href="it.html">IT</a>
 </div>
 
-<span style="font-size:0.5em;">The 25 areas of DRI queried have been split into 4 individual reports, detailing if supports and training were needed and where they were sought. Each report is catered to a specific unit and represents core areas of service delivery within each of those units.</span>
+<span style="font-size:0.8em;">The 25 areas of DRI queried have been split into 4 individual reports, detailing if supports and training were needed and where they were sought. Each report is catered to a specific unit and represents core areas of service delivery within each of those units.</span>
 
 ## Executive Summary
 
