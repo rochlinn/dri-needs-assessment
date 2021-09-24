@@ -18,9 +18,11 @@ title: Digital Research Infrastructure Report
   <a href="it.html">IT</a>
 </div>
 
+These blocks link to sub-reports for each corresponding unit
+
 ## Executive Summary
 
-From May 17th - June 12, 2021, UBC Advanced Research Computing (ARC) and the UBC Library from both Vancouver and Okanagan Campuses launched a survey to investigate UBC researchers’ needs in 25 distinct areas relating to data, software, and computational training and support (see full details of survey in Appendix X.), receiving 241 total responses.  Following the survey, three focus groups were conducted with UBC researchers to gain additional insights in these areas.
+From May 17th - June 12, 2021, UBC Advanced Research Computing (ARC) and the UBC Library from both Vancouver and Okanagan Campuses launched a survey to investigate UBC researchers’ needs in 25 distinct areas relating to data, software, and computational training and support (see full details of survey [insert link]), receiving 241 total responses.  Following the survey, three focus groups were conducted with UBC researchers to gain additional insights in these areas.
 
 ## Definitions
 
@@ -32,7 +34,7 @@ From May 17th - June 12, 2021, UBC Advanced Research Computing (ARC) and the UBC
 
 1. A significant portion of respondents reported wanting training and support, but didn't know they were available
 2. For services sought within UBC, many turned to a mix of different departments and units, resulting in overlapping service providers
-3. Participants in focus groups noted that finding the right services is challenging, and a centralized portal would be beneficial
+3. Participants in focus groups noted that finding the right service is challenging, and a centralized portal would be beneficial
 
 <div class="figure">Fig 1.</div>
 
@@ -44,10 +46,12 @@ From May 17th - June 12, 2021, UBC Advanced Research Computing (ARC) and the UBC
 
 ## Recommendations
 
-These findings suggest that
+Based on these findings, recommendations are:
 
-* Awareness of training and supports could be enhanced;
-* Collaborative efforts at addressing DRI supports and training across units and departments could offer a more seamless and informed delivery of DRI supports and training.
+1. **Coordinate and strategize communications** across portfolio and departments to ensure that researchers are able to easily find and access services
+2. **Coordinate and strategize services** across porfolios and departments that offers similar/overlapping services, to maximize efforts and reduce duplication
+3. **Coordinate and develop a unified portal** as a centralized entry point to DRI services
+
 
 ## Reports
 
