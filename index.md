@@ -20,13 +20,7 @@ title: Digital Research Infrastructure Report
 
 ## Executive Summary
 
-Digital Research Infrastructure refers to a suite of services that enables the collection, processing, dissemination and disposition of research data. This includes strategies for planning, organizing, storing, sharing, computing, and ultimately archiving or destroying one's research data.
-
-As traditionally non computational disciplines increasingly rely on digital methodologies or approaches and computationally centric disciplines need to navigate increasingly large and complex computational environments, there is a growing and wide spread need to support the infrastructural needs of these research projects as well as to ensure that practitioners have the skillsets required to engage in these activities.
-
-For non-traditionally computational disciplines, it is anticipated that training outside of one's degree program may be needed. For computationally centric disciplines, it is anticipated that shared resources that enable high performance computing will be required and that opportunities for training on novel systems may be needed.
-
-To investigate these needs, the DRI Needs Assessment Survey ran from May 17th - June 12, 2021. The survey was jointly undertaken by Advanced Research Computing, UBC Vancouver Library, and UBC Okanagan Library. A Total of 241 responses were received from faculty, post docs, and graduate students. A full spectrum of disciplines were covered including Medicine, Ecology, Digital Humanities, Engineering, and Management. The survey investigated UBC researchers' needs in 25 distinct areas relating to data, software, and computational training and support. Following the survey, 3 focus groups were conducted with a subset of participants to gain additional insight.
+From May 17th - June 12, 2021, UBC Advanced Research Computing (ARC) and the UBC Library from both Vancouver and Okanagan Campuses launched a survey to investigate UBC researchers’ needs in 25 distinct areas relating to data, software, and computational training and support (see full details of survey in Appendix X.), receiving 241 total responses.  Following the survey, three focus groups were conducted with UBC researchers to gain additional insights in these areas.
 
 ## Definitions
 
@@ -36,7 +30,9 @@ To investigate these needs, the DRI Needs Assessment Survey ran from May 17th - 
 
 ## Key Findings
 
-A significant portion of the respondents who self identified as needing or wanting additional support or training were unaware of many of the training and support opportunities available to them and their research teams at UBC. Additionally, for those who sought additional support and training from within UBC, many turned to a mix of units and departments, including the Library, ARC, ORS, CIO, and UBC IT. Participants in focus groups noted that finding the right service is challenging, and a centralized portal would be beneficial.
+1. A significant portion of respondents reported wanting training and support, but didn't know they were available
+2. For services sought within UBC, many turned to a mix of different departments and units, resulting in overlapping service providers
+3. Participants in focus groups noted that finding the right services is challenging, and a centralized portal would be beneficial
 
 <div class="figure">Fig 1.</div>
 
