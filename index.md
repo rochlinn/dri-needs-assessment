@@ -51,7 +51,7 @@ From May 17th - June 12, 2021, UBC Advanced Research Computing (ARC) and the UBC
 Based on these findings, recommendations are to:
 
 1. **Coordinate and strategize communications** across portfolios and departments to ensure that researchers are able to easily find and access services;
-2. **Coordinate and strategize services** across porfolios and departments that offer similar/overlapping services, to maximize efforts and reduce duplication;
+2. **Coordinate and strategize training and support** across porfolios and departments that offer similar/overlapping services, to maximize efforts and reduce duplication;
 3. **Coordinate and develop a unified portal** as a centralized entry point to DRI services.
 
 
