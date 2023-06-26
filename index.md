@@ -2,20 +2,16 @@
 permalink: /
 title: Digital Research Infrastructure Report
 ---
-<div class="reportButton getting started">
-  <a href="arc.html">ARC</a>
+<div class="reportButton getting-started">
+  <a href="getting-started.html">Getting Started</a>
 </div>
 
-<div class="reportButton library">
-  <a href="library.html">Library</a>
+<div class="reportButton managing-data">
+  <a href="managing-data.html">Managing Data</a>
 </div>
  
-<div class="reportButton ors">
-  <a href="ors.html">ORS</a>
-</div>
-
-<div class="reportButton it">
-  <a href="it.html">IT</a>
+<div class="reportButton wrapping-up">
+  <a href="wrapping-up.html">Wrapping Up a Project</a>
 </div>
 
 <span style="font-size:0.8em;">The above buttons link to subreports tailored to the corresponding portfolio.</span>
