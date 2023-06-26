@@ -1,5 +1,5 @@
 ---
-title: ARC
+title: Getting Started
 ---
 
 ## Survey highlights
