@@ -2,7 +2,7 @@
 permalink: /
 title: Digital Research Infrastructure Report
 ---
-<div class="reportButton arc">
+<div class="reportButton getting started">
   <a href="arc.html">ARC</a>
 </div>
 
