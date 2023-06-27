@@ -4,12 +4,15 @@
 @import "minima";
 
 .reportButton {
-  width: 35%;
-  margin: 1%;
-  float: left;
+border: none;
+  color: white;
+  padding: 15px 32px;
   text-align: center;
-  padding: 60px 0;
-  font-size: 24px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
 }
 
 .getting-started {
